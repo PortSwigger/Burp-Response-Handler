@@ -1,0 +1,10 @@
+Uuid: 93bbecc3da434ef7ba5a5b2b98265169
+ExtensionType: 2
+Name: Site Map Fetcher
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Shpend Kurtishaj
+ShortDescription: Fetches the responses of unrequested items in the site map.
+EntryPoint: getResponse.py
